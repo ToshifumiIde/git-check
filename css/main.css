@@ -1,0 +1,10 @@
+.l-room__container{
+  max-width:1240px;
+  margin: 0 auto;
+  background-color: blue;
+  height:2000px;
+}
+
+.l-room__container .room__box{
+  margin-bottom: 120px;
+}
